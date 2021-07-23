@@ -13,3 +13,10 @@ using Prezi NEXT till organizing the talk between the team while pitching.
 
 On the leading side, I have maintained the positive and collaborative team spirit between us by a consistent motivation even at our most stressful times and avoiding any tension 
 or differences by constructive criticism or voting between us.
+
+
+
+TO DO NEXT :
+* more models optimizations to generate a more accurate signal 
+* add a sentiment analysis feature ( building ml models to classify figures and people opinions that would cause a price change a stock, inspired by [this paper](https://link.springer.com/article/10.1007/s12559-021-09819-8))
+* add traditional statistical indicators like oscillators and displaced EMA
