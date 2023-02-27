@@ -4,7 +4,7 @@ A stock predictor for Ford motors (F) stock price using ML, DL and statistical m
 
 
 In this project we (the graduation project team) have done a time series forecasting technique to help beginners take action of buy or sell in the present time to be able to maximize profit in the future,
-The technique used is an ensemble learning technique between classical ML models (linear, ridge, and SVR), FBprophet, statistical model (ARIMA) and DL models (LSTM and transformer) to finally get the most possible accurate decision from the predictions of our 5 optimized models, and deployed the models as micro-service using FastAPI with the ensebled technique integrated.
+The technique used is an ensemble learning technique between classical ML models (linear, ridge, and SVR), FBprophet, statistical model (ARIMA) and DL models (LSTM and transformer) to finally get the most possible accurate decision from the predictions of our 5 optimized models, and deployed the models as micro-service using FastAPI with the ensemble learning technique integrated.
 
 
 
